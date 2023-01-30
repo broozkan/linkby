@@ -1,0 +1,21 @@
+{
+  "name": "8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/errors": "^4.5.15",
+    "@feathersjs/express": "^4.5.15",
+    "@feathersjs/feathers": "^4.5.15",
+    "@feathersjs/socketio": "^4.5.15",
+    "feathers-sequelize": "^6.4.0",
+    "sequelize": "^6.28.0"
+  }
+}
